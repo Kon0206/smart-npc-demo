@@ -1,2 +1,22 @@
-# smart-npc-demo
-An AI-powered game NPC demo using LLM and prompt engineering.
+# Smart NPC Demo
+
+## 项目简介
+这是一个基于大语言模型的智能游戏 NPC 原型项目。
+
+## 背景与动机
+传统游戏 NPC 对话是静态配置的，缺乏记忆与个性。
+我希望通过 AI 技术，让 NPC 能够记住玩家行为，并进行更自然的多轮对话。
+
+## 当前进度
+- 已创建项目仓库
+- 正在整理 NPC 对话数据
+
+## 技术栈
+- Python
+- Prompt Engineering
+- 大语言模型（LLM）
+
+## 后续计划
+- 构建 NPC 对话数据集
+- 引入 RAG 和记忆机制
+- 做一个可演示 Demo
